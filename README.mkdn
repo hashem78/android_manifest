@@ -1,0 +1,17 @@
+Fortune OS
+==========
+
+Getting Started
+---------------
+
+To get started with Android, you'll need to get
+familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
+
+To initialize your local repository using the Fortune trees, use a command like this:
+
+    repo init -u git://github.com/FortuneLP/android_manifest.git -b android-5.0
+
+Then to sync up:
+
+    repo sync
+
