@@ -393,7 +393,7 @@
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="AndroidOpenDevelopment/android_packages_apps_Settings" remote="github" revision="lp" />
+  <project path="packages/apps/Settings" name="FortuneLP/android_packages_apps_Settings" remote="github" revision="lp" />
   <project path="packages/apps/SmartCardService" name="AndroidOpenDevelopment/android_packages_apps_SmartCardService" remote="github" revision="lp" />
   <project path="packages/apps/SoundRecorder" name="AndroidOpenDevelopment/android_packages_apps_SoundRecorder" remote="github" revision="lp" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
