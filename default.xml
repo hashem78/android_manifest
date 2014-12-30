@@ -505,9 +505,9 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
-  <!-- AOD specifis -->
+  <!-- Fortune specifis -->
   <project path="android_manifest" name="FortuneLP/android_manifest" remote="github" revision="lp" />
-  <project path="vendor/aod" name="FortuneLP/android_vendor_fortune" remote="github" revision="lp" />
+  <project path="vendor/fortune" name="FortuneLP/android_vendor_fortune" remote="github" revision="lp" />
 
   <!-- Optional tools -->
   <project path="external/busybox" name="AndroidOpenDevelopment/android_external_busybox" remote="github" revision="lp" />
